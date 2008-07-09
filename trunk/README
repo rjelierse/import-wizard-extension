@@ -1,0 +1,22 @@
+Import Wizard
+A MediaWiki extension created by Raymond Jelierse.
+
+Current version: 0.1.1
+Last update: 2008-07-03
+
+This extension is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; version 2 of the License.
+
+The Import Wizard extension adds extra functionality to MediaWiki for importing articles directly from other wikis.
+
+==Features==
+* Import articles from a specified list of sources.
+* Follow redirects if necessary.
+* Expand templates in the source article.
+* Select sections to import.
+
+==Installation==
+Place the contents of this directory in the extensions/ImportWizard/-directory of your MediaWiki installation.
+Add the following line to your LocalSettings.php:
+    require_once ("$IP/extensions/ImportWizard/ImportWizard.php");
