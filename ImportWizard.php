@@ -26,7 +26,7 @@ $wgExtensionCredits['specialpage'][] = array (
 	'name'           => 'Import Wizard',
 	'author'         => '[http://www.wikid.eu/index.php/User:Rjelierse Raymond&nbsp;Jelierse]',
 	'version'        => '0.1.1 (2008-07-02)',
-	'url'            => 'http://www.wikid.eu/index.php/WikID:Extensions',
+	'url'            => 'http://code.google.com/p/import-wizard-extension/',
 	'descriptionmsg' => 'importwizard-desc',
 );
 

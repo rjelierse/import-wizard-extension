@@ -1,0 +1,8 @@
+2008-07-03  Raymond Jelierse  <eagletitan@gmail.com>
+	* ImportWizard.i18n.php: Updated message file.
+	* ImportWizard.body.php (ImportWizardPage::getArticleBody): New function.
+	* ImportWizard.body.php (ImportWizardPage::showSectionForm): Replaced default fetch with getArticleBody.
+	* ImportWizard.body.php (ImportWizardPage::showImportForm): Added redirect option.
+
+2008-06-24  Raymond Jelierse  <eagletitan@gmail.com>
+	* ImportWizard.{body.php,css,i18n.php,js,php}: New files.
