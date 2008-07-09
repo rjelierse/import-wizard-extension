@@ -1,0 +1,6 @@
+div.sectionBlock {
+	border: 1px solid #ccc;
+	padding: 2px;
+	margin: 1px 0px 1px 0px;
+	cursor: pointer;
+}
